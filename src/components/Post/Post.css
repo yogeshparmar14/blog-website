@@ -1,0 +1,33 @@
+
+.post-container {
+    background: #e2e8d5;
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+    margin: 0 2%;
+}
+.heading {
+    height: 126px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.image {
+    width: 100%;
+    height: 210px;
+}
+
+.btn-primary {
+    background-color: #23aa4e;
+    border-color: #177d37;
+  }
+  
+  #example {
+    margin: 3rem;
+  }
+  
+  .customContainer {
+    position: absolute;
+    top: 186px;
+    left: 298px;
+  }
